@@ -6,6 +6,16 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 version = "0.4.4"
 
+[[package]]
+category = "main"
+description = "encrypting and decrypting tools"
+name = "mycrypto"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "1.3"
+
+
+
 [metadata]
 content-hash = "ec33b44996e41c10232c095bb83ca911d08fb04596cd7a3811aa66c84fb49f90"
 python-versions = "^3.8"
